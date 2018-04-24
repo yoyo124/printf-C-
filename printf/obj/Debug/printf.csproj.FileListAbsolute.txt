@@ -1,0 +1,9 @@
+D:\C# excise\printf\printf\bin\printf.dll
+D:\C# excise\printf\printf\bin\printf.pdb
+D:\C# excise\printf\printf\bin\Ext.Net.dll
+D:\C# excise\printf\printf\bin\Ext.Net.Utilities.dll
+D:\C# excise\printf\printf\bin\Newtonsoft.Json.dll
+D:\C# excise\printf\printf\bin\Transformer.NET.dll
+D:\C# excise\printf\printf\obj\Debug\printf.dll
+D:\C# excise\printf\printf\obj\Debug\printf.pdb
+D:\C# excise\printf\printf\obj\Debug\printf.csprojResolveAssemblyReference.cache

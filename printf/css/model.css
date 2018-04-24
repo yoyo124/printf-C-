@@ -1,0 +1,25 @@
+﻿h1,table
+{
+    text-align:center;
+    }
+ table
+ {
+     margin:20px auto;
+     }
+ .head
+ {
+     text-align:left;
+     }
+ #content
+ {
+     margin-left:50px;
+     margin-right:50px;
+     }
+     
+
+td
+{
+    width:200px;
+    height:30px;
+    font-size:20px;
+    }
